@@ -12,15 +12,15 @@ In the project directory, you can run:
 ### Create django virtual environment
 
 Go to django-rest-api directory and run this command:<br/>
-python -m venv (virtual env name)
+**python -m venv (virtual env name)**
 
-Go to the env directory, and run this command "env\Scripts\activate".<br/>
+Go to the env directory, and run this command **"env\Scripts\activate"**.<br/>
 After running this command, you should see the name of the virtual environment enclosed in brackets.
 
 ### Install Library 
 
 Inside virtual environment directory run this command to install library:<br/>
-python -m pip install django djangorestframework django-cors-headers mysqlclient
+**python -m pip install django djangorestframework django-cors-headers mysqlclient**
 
 ### Create local MySQL Database
 
@@ -29,13 +29,13 @@ Create local database with XAMPP named "djangodb", or whatever you want that mus
 ### Migrate Database
 
 Inside virtual environment directory run this command<br/>
-py manage.py migrate
+**py manage.py migrate**
 
 
 ### Start Django
 
 Inside virtual environment directory run this command<br/>
-py manage.py runserver
+**py manage.py runserver**
 
 
 
