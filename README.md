@@ -1,4 +1,4 @@
-# Getting Started with django REST API with react
+# Getting Started with django REST API CRUD Operation
 Technology used for this project:<br/>
 **React.js** is a front-end JavaScript library used to build interactive user interfaces for applications.<br/>
 **Django** is a Python open-source backend framework that is built solely on a model-template-view architecture.<br/>
