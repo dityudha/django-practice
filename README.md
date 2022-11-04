@@ -41,14 +41,21 @@ Inside virtual environment directory run this command<br/>
 
 ### Apps Preview
 
-![1](https://user-images.githubusercontent.com/33762836/199698611-bc43867f-905b-4daf-8232-f598a9120e1a.PNG)<br/>
-![2](https://user-images.githubusercontent.com/33762836/199698622-af617942-11ad-4ea1-8a3d-59296bf4502f.PNG)<br/>
-![3](https://user-images.githubusercontent.com/33762836/199698626-b72ed529-7c70-488f-8fe9-8093cad8bfcd.PNG)<br/>
+![1](https://user-images.githubusercontent.com/33762836/199698611-bc43867f-905b-4daf-8232-f598a9120e1a.PNG)
+<br/>
+<br/>
+![2](https://user-images.githubusercontent.com/33762836/199698622-af617942-11ad-4ea1-8a3d-59296bf4502f.PNG)
+<br/>
+<br/>
+![3](https://user-images.githubusercontent.com/33762836/199698626-b72ed529-7c70-488f-8fe9-8093cad8bfcd.PNG)
+<br/>
 
 ### MySQL Database Preview
 
-![4](https://user-images.githubusercontent.com/33762836/199698632-36eae861-b922-4137-aa04-5e56141a2719.PNG)<br/>
-![5](https://user-images.githubusercontent.com/33762836/199698635-726473df-38eb-4c8d-801a-2aef9d36b36b.PNG)<br/>
+![4](https://user-images.githubusercontent.com/33762836/199698632-36eae861-b922-4137-aa04-5e56141a2719.PNG)
+<br/>
+<br/>
+![5](https://user-images.githubusercontent.com/33762836/199698635-726473df-38eb-4c8d-801a-2aef9d36b36b.PNG)
 
 
 
